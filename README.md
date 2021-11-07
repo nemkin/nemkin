@@ -2,7 +2,7 @@
 
 I'm researching quantum computing, currently quantum walks.
 
-Check out my stuff! :coffee:
+:coffee: Check out my stuff!
 
 - The [Quantum walk simulator](https://github.com/nemkin/quantum) I wrote in Python.
 - The accompanying research report, [Simulation of quantum walks on a classical computer](https://github.com/nemkin/tdk/blob/main/thesis.pdf) (in English).
