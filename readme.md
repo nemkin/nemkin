@@ -9,3 +9,5 @@ I'm researching quantum computing, currently quantum walks.
 - And some cool [quantum walk simulation videos](https://nemk.in/quantum).
 
 :envelope: Send me an email, I would love to talk!
+
+[Github Resume](https://resume.github.io/?nemkin)
