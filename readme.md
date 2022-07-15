@@ -8,7 +8,7 @@ I'm researching quantum computing, currently quantum walks.
 - The accompanying research report, [Simulation of quantum walks on a classical computer](https://github.com/nemkin/tdk/blob/main/thesis.pdf) (in English).
 - And some cool [quantum walk simulation videos](https://nemk.in/quantum).
 
-I'm also a TA at the Department of Computer Science and Information Theory at BUTE.
+I'm also a TA at the Department of Computer Science and Information Theory at Budapest University of Technology and Economics.
 
 - My website is https://cs.bme.hu/~nemkin/.
 - The website for our quantum algorithms research group is: https://cs.bme.hu/quantum (in Hungarian)
