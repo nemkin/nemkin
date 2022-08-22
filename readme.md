@@ -14,5 +14,3 @@ I'm also a TA at the Department of Computer Science and Information Theory at Bu
 - The website for our quantum algorithms research group is: https://cs.bme.hu/quantum (in Hungarian)
 
 :envelope: Send me an email, I would love to talk!
-
-[Github Resume](https://resume.github.io/?nemkin)
