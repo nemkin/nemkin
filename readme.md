@@ -13,3 +13,4 @@ I'm also a teacher at the Department of Computer Science and Information Theory 
 
 - https://cs.bme.hu/~nemkin
 - https://cs.bme.hu/quantum (Hungarian)
+- https://cs.bme.hu/acm (Hungarian)
