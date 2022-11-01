@@ -17,6 +17,6 @@ Some cool [quantum walk simulation videos](https://nemk.in/quantum).
 
 I'm also a teacher at the Department of Computer Science and Information Theory at Budapest University of Technology and Economics.
 
-- https://cs.bme.hu/~nemkin
-- https://cs.bme.hu/quantum (Hungarian)
-- https://cs.bme.hu/acm (Hungarian)
+- https://cs.bme.hu/~nemkin: My personal website.
+- https://cs.bme.hu/quantum: Our Quantum Algorithms research group (in Hungarian).
+- https://cs.bme.hu/acm: The competitive programming study group I organize for Hungarian-speaking college students.
