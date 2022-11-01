@@ -1,5 +1,5 @@
 :wave: Hi there! I'm Viktória. :)  
-:eyes: I'm researching quantum & classical algorithms for solving bioinformatical problems.  
+:eyes: I'm researching quantum & classical algorithms for solving bioinformatical problems & writing quantum algorithm simulation software.  
 :revolving_hearts: I'm looking to collaborate with someone with a biochemistry background on computer-assisted drug discovery.  
 :envelope: Reach me via e-mail @ nemkin@cs.bme.hu
 
