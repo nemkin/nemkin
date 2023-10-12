@@ -18,4 +18,4 @@ I'm also a teacher at the Department of Computer Science and Information Theory 
 
 - https://cs.bme.hu/~nemkin: My personal website.
 - https://cs.bme.hu/quantum: Our Quantum Algorithms research group (in Hungarian).
-- https://cs.bme.hu/acm: The competitive programming study group I organize for Hungarian-speaking college students.
+- https://cs.bme.hu/icpc: The competitive programming study group I organize for Hungarian-speaking college students.
