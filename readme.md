@@ -1,6 +1,5 @@
 :wave: Hi there! I'm Viktória. :)  
-:telescope: I research quantum & classical algorithms for solving NP-hard problems.  
-:pencil2: I write quantum algorithm simulation software.  
+:telescope: I research classical & quantum algorithms.
 :envelope: Reach me via e-mail @ nemkin@cs.bme.hu.
 
 :coffee: Check out my stuff!
