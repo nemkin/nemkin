@@ -1,5 +1,5 @@
 :wave: Hi there! I'm Viktória. :)  
-:telescope: I research classical & quantum algorithms.
+:telescope: I research classical & quantum algorithms.  
 :envelope: Reach me via e-mail @ nemkin@cs.bme.hu.
 
 :coffee: Check out my stuff!
